@@ -482,7 +482,7 @@ function App() {
               </div>
             </div>
             <a href="#security" onClick={closeMenus}>Security</a>
-            <a className="nav-cta" href="/AccountsOrbit-Setup.zip" download="AccountsOrbit-Setup.zip" onClick={closeMenus}>Download App</a>
+            <a className="nav-cta" href="https://app.accountsorbit.com/download.html" onClick={closeMenus}>Download App</a>
           </nav>
         </div>
       </header>
@@ -724,7 +724,7 @@ function App() {
         </div>
         <div className="footer-links">
           <div><b>Product</b><a href="#features">Features</a><a href="#dashboard">Dashboard</a><a href="#how-it-works">How it works</a></div>
-          <div><b>Company</b><a href="#security">Security</a><a href="/AccountsOrbit-Setup.zip" download="AccountsOrbit-Setup.zip">Download App</a></div>
+          <div><b>Company</b><a href="#security">Security</a><a href="https://app.accountsorbit.com/download.html">Download App</a></div>
           <div><b>Contact</b><a href="mailto:ao.orbits@gmail.com">ao.orbits@gmail.com</a><a href="#download">Support</a></div>
         </div>
         <div className="footer-bottom"><span>© 2026 AccountsOrbit. All rights reserved.</span><span>Made for Bharat 🇮🇳</span></div>
